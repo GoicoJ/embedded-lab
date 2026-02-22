@@ -1,0 +1,25 @@
+# Build outputs
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Binaries
+*.o
+*.a
+*.so
+*.elf
+*.bin
+*.hex
+*.map
+*.d
+
+# Editor
+.vscode/
+*.swp
+
+# OS
+.DS_Store
